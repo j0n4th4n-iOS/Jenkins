@@ -2,6 +2,6 @@
 <testsuites name='JenkinsTests.xctest' tests='2' failures='0'>
   <testsuite name='JenkinsTests.JenkinsTests' tests='2' failures='0'>
     <testcase classname='JenkinsTests.JenkinsTests' name='testExample' time='0.003'/>
-    <testcase classname='JenkinsTests.JenkinsTests' name='testPerformanceExample' time='0.321'/>
+    <testcase classname='JenkinsTests.JenkinsTests' name='testPerformanceExample' time='0.336'/>
   </testsuite>
 </testsuites>
